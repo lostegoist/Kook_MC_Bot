@@ -30,4 +30,4 @@
 2. 目前用/cmd指令向服务端后端发送say指令，虽然能成功执行，但是脚本窗口会弹出报错“Content不能为空”，待解决。
 
 ---
-
+如果需要让Minecraft服务器与kook频道消息实时互传的话，这个项目或许能帮到你 <https://github.com/AnzhiZhang/ChatHub>
