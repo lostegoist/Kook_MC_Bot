@@ -1,0 +1,9 @@
+{
+    "token": "",  
+    "command_channel_ID": "",
+    "chat_channel_ID": "",
+    "user_ID":"",
+    "host": "127.0.0.1",
+    "port":25567,
+    "password":""
+}
