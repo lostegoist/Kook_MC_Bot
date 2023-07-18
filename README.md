@@ -23,7 +23,7 @@
 ### 使用方法
 1. 在服务端`server.properties`文件中启用rcon，具体为填写其中的`rcon.port`参数与`rcon.password`参数以及`enable-rcon`参数。
 2. 在kook开发者平台注册账号，并在"应用"介面下选择"新建应用"，创建一个连接方式为Websocket的机器人，并在"机器人">"邀请链接"选项中按照方法将机器人邀请至自己的Kook服务器。
-3. 在Bot脚本的目录下按shift打开Powershell窗口，输入`python main.py`，即可启动机器人。
+3. 在Bot脚本的目录下按shift并右键选择打开Powershell窗口，输入`python main.py`，即可启动机器人。
 
 ### 注意事项
 1. 请注意kook服务器内频道的权限设置，rcon连接的为控制台，权限级别很高，失误的权限操作会造成较大损失。
